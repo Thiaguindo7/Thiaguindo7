@@ -1,10 +1,10 @@
-## Hi there 👋
+hello 👋
 
+My name is Thiago, i have 15 years
 <!--
 **Thiaguindo7/Thiaguindo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
+![](https://www.imagui.com/i/pin-pictures-of-gifs-animados-gratis-18566530.webp)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
